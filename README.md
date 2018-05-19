@@ -1,4 +1,4 @@
 # StockInfoBot
-Bot to assist user in selecting stocks to buy for their investment. Displays information and ratings from established analysts of stocks.
+Used to be a script where users enter as many tickers as they want (can even copy and paste directly into Terminal). 
 
-Enter as many tickers as desired (can directly copy and paste entire list of tickers at once). Enter 'DONE' when finished adding tickers.
+Now a web app to assist user in selecting stocks to buy for their investment. Displays information and ratings from established analysts of stocks.
